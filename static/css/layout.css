@@ -48,16 +48,16 @@ p, address {
 
 .project_image {
     float: center;
-    width: 360px;
-    height: 300px;
+    width: 350px;
+    height: 280px;
     padding-top: 15px;
     padding-right: 15px;
 }
 
 .project_image2 {
     float: center;
-    width: 360px;
-    height: 400px;
+    width: 350px;
+    height: 380px;
     padding-top: 15px;
     padding-right: 15px;
 }
